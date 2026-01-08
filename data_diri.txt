@@ -1,2 +1,3 @@
 nama: Candra Ok
 alamat: Jalan Pelan-Pelan
+umur: 17
