@@ -2,10 +2,14 @@ nama: Candra Ok
 alamat: Jalan Pelan-Pelan
 umur: 17
 
-
 nama : ridha akbar
 alamat :  Kalsel
 umur: 02
+
 nama: Rayhan
 alamat: Jalan Menuju Langit Biru
 umur: 23
+
+nama : Yudha
+alamat : Jalan Kaki
+umur : 67
