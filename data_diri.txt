@@ -1,3 +1,8 @@
 nama: Candra Ok
 alamat: Jalan Pelan-Pelan
 umur: 17
+
+
+nama : ridha akbar
+alamat :  Kalsel
+umur: 02
